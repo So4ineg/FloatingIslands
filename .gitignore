@@ -6,6 +6,7 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+.vs/
 
 # Сгенерированные файлы проектов (Visual Studio, Rider и т.д.)
 *.csproj
